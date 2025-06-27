@@ -17,7 +17,7 @@
     <properties>
         <java.version>11</java.version>
         <lombok.version>1.18.10</lombok.version>
-        <jackson-core.version>2.10.1</jackson-core.version>
+        <jackson-core.version>2.15.0</jackson-core.version>
         <flyway-core.version>6.2.0</flyway-core.version>
         <testcontainers.version>1.12.4</testcontainers.version>
         <HikariCP.version>3.4.2</HikariCP.version>
